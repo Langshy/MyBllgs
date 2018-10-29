@@ -1,0 +1,182 @@
+#header{
+    width: 100%;
+    min-width: 800px;
+    height: auto;
+    background:#393D49 ;
+}
+#centerbg{
+    clear: both;
+    background-attachment: fixed;
+}
+#centerbg>img{
+    width: 80%;
+}
+.logo{
+    height: 60px;
+    line-height: 60px;
+}
+.site-title{
+    width: 400px;
+    margin-left: 50px;
+}
+.site-title>a{
+    color: #FFFFFF;
+}
+.min-width{
+    width: 600px;
+    float: right;
+}
+
+#conter{
+    width: 100%;
+    min-width: 800px;
+    height: auto;
+}
+.conter-area{
+    width: 800px;
+    height: auto;
+    margin: 0 auto;
+}
+.page{
+    position: relative;
+    width: 670px;
+    height: 80px;
+    margin-left: 25px;
+    float: left;
+}
+.page-text{
+    line-height: 22px;
+    font-size: 14px;
+    color: #666;
+}
+.post ul{
+    width: 800px;
+    height: 100px;
+    position: relative;
+}
+.p-image{
+    width: 78px;
+    height: 78px;
+    float: left;
+    margin-left: 25px;
+    border: 1px solid #444444;
+    border-radius: 10px;
+}
+.p-icon{
+    font-size: 60px;
+    display: inline-block;
+    padding:7px 10px;
+}
+.page-title{
+    font-size: 18px;
+    font-weight: 500;
+    color: #333;
+    margin-bottom: 10px;
+}
+.page-time{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.page-more{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+.conter-area .more{
+    width: 94px;
+    height: auto;
+    margin: 50px auto;
+}
+
+#footer{
+    width: 100%;
+    min-width: 800px;
+    height: auto;
+}
+.site-info{
+    text-align: center;
+    padding: 20px 0;
+}
+.f-color-gray{
+    color: #666;
+    font-size: 12px;
+}
+
+.dispaly{
+    display: none;
+}
+
+
+#musicPlay{
+    width: 100%;
+    height: 50px;
+    position: fixed;
+    bottom: 0;
+}
+.musicPlay{
+    width: 0;
+    height: 50px;
+    line-height: 50px;
+    background: #666;
+    float: left;
+}
+.musicPlay div{
+    float: left;
+    width: 32px;
+    height: 32px;
+    margin: 9px;
+    cursor: pointer;
+    background-size: cover;
+}
+
+.op{
+    width: 20px;
+    height: 50px;
+    background: #333;
+    float: left;
+    cursor: pointer;
+    line-height: 50px;
+}
+.op i{
+    font-size: 20px;
+    color: #ffffff;
+}
+
+.previous{
+    background: url("../image/music/previous.png") no-repeat;
+}
+.play{
+    background: url("../image/music/play.png") no-repeat;
+}
+.pause{
+    background: url("../image/music/pause.png") no-repeat;
+}
+.next{
+    background: url("../image/music/next.png") no-repeat;
+}
+.load{
+    background: url("../image/music/load.png") no-repeat;
+}
+.musicPlay .title{
+    width: 200px !important;
+    margin: 0!important;
+    color: #ffffff;
+    font-size: 20px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+progress
+{
+    color:orange; /*兼容IE10的已完成进度背景*/
+    border:none;
+    background:#d7d7d7;/*这个属性也可当作Chrome的已完成进度背景，只不过被下面的::progress-bar覆盖了*/
+
+}
+
+#paging{
+    width: 800px;
+    margin: 0 auto;
+}

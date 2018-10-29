@@ -1,0 +1,56 @@
+ul li{
+    list-style: none;
+    margin: 10px 0;
+}
+input{
+    list-style: none;
+}
+#content{
+    width: 100%;
+    min-width: 1280px;
+    height: auto;
+    position: relative;
+}
+.login{
+    width: 500px;
+    height: 400px;
+    position: absolute;
+    left: 30%;
+    top: 20%;
+    z-index: 2;
+    background: rgba(255, 255, 255, 0.8);
+    border-radius: 5px;
+}
+.title{
+    width: 300px;
+    height: 70px;
+    margin: 0 auto;
+    font-size: 50px;
+    text-align: center;
+}
+.login_content{
+    width: 400px;
+    height: 300px;
+    margin: 0 auto;
+}
+.login_content .input{
+    width: 400px;
+    height: 40px;
+    background: #ffffff;
+    font-size: 25px;
+    border-radius: 10px;
+    border: 0;
+    outline: none;
+    text-indent: 10px;
+}
+.login_content .button{
+    width: 400px;
+    height: 50px;
+    font-size: 20px;
+    background:#fc585a;
+    color: #ffffff;
+    border: 0;
+    border-radius: 50px;
+    cursor: pointer;
+    outline: none;
+}
