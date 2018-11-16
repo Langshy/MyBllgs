@@ -20,8 +20,9 @@ class LoginController extends Controller
 
     public function loginAction()
     {
-        $ID = $_POST['ID'];
-        $password = md5($_POST['password']);
+        $user['ID'] = $_POST['ID'];
+        $user['password'] = md5($_POST['password']);
+        echo json_encode($user);
 
 //        $data = new AdminModel();
 //        $result = $data->getLogin($ID,$password);

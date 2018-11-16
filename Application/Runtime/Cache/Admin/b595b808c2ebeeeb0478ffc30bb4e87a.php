@@ -6,7 +6,7 @@
            content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
      <meta http-equiv="X-UA-Compatible" content="ie=edge">
      <title>首页</title>
-     <link type="text/css" href="/Myblogs/Public/Admin/css/main.css"/>
+     <link type="text/css" href="/MyBllgs/Public/Admin/css/main.css"/>
  </head>
  <body>
  <a href="<?php echo U('Home/Index/index');?>">hello,world</a>

@@ -1,0 +1,1615 @@
+[ 2018-11-16T15:04:27+08:00 ] ::1 /MyBllgs/index.php/Home/Index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000259s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000509s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000028s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000052s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.003560s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003586s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000380s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000413s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000951s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001054s ]
+
+[ 2018-11-16T15:04:27+08:00 ] ::1 /mybllgs/index.php/home/index/conter
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001836s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002266s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000097s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006043s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000296s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000323s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000651s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000690s ]
+
+[ 2018-11-16T15:04:42+08:00 ] ::1 /mybllgs/index.php/home/index/conter
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000433s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001348s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000029s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000053s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.003324s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003370s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000122s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000136s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000645s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000717s ]
+
+[ 2018-11-16T15:04:52+08:00 ] ::1 /mybllgs/index.php/home/index/conter
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000233s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000411s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000045s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.002876s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002895s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000101s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000113s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000373s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000392s ]
+
+[ 2018-11-16T15:05:06+08:00 ] ::1 /mybllgs/index.php/home/tag/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001409s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002025s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000106s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007477s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007538s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000377s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000417s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000627s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000661s ]
+
+[ 2018-11-16T15:05:15+08:00 ] ::1 /mybllgs/index.php/home/index/conter
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000222s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000394s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000033s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000063s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.003375s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003405s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000115s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000129s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000617s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000662s ]
+
+[ 2018-11-16T15:05:33+08:00 ] ::1 /mybllgs/index.php/home/index/conter
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000495s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000908s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000029s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000057s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004609s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004633s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000353s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000375s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000635s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000660s ]
+
+[ 2018-11-16T15:05:35+08:00 ] ::1 /mybllgs/index.php/home/tag/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000454s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000901s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000027s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000052s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.003626s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003669s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000104s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000116s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000309s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000324s ]
+
+[ 2018-11-16T15:06:02+08:00 ] ::1 /mybllgs/index.php/home/index/conter
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000573s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001017s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000029s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000055s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004874s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004904s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000341s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000363s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000700s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000787s ]
+
+[ 2018-11-16T15:09:52+08:00 ] ::1 /MyBllgs/index.php/Home/Index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000259s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000521s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000028s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000049s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004289s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004321s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000176s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000308s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000323s ]
+
+[ 2018-11-16T15:09:52+08:00 ] ::1 /mybllgs/index.php/home/index/conter
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000365s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000873s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000086s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007525s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007572s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000221s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000269s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002173s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002228s ]
+
+[ 2018-11-16T15:15:24+08:00 ] ::1 /MyBllgs/index.php/Admin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000584s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001037s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000142s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005296s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005351s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000668s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000756s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000957s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001048s ]
+
+[ 2018-11-16T15:15:45+08:00 ] ::1 /MyBllgs/index.php/Admin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000288s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000467s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000010s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000028s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.002449s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002475s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000151s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000169s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000306s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000324s ]
+
+[ 2018-11-16T15:15:46+08:00 ] ::1 /mybllgs/index.php/home/index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000444s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000059s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004510s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004543s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000130s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000144s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000363s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000389s ]
+
+[ 2018-11-16T15:15:46+08:00 ] ::1 /mybllgs/index.php/home/index/conter
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000766s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001321s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000083s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007933s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007993s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000444s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000481s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000756s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000812s ]
+
+[ 2018-11-16T15:15:50+08:00 ] ::1 /MyBllgs/index.php/Admin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000504s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000764s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000011s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000035s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.002816s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002840s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000095s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000106s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000260s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000275s ]
+
+[ 2018-11-16T15:16:19+08:00 ] ::1 /MyBllgs/index.php/Admin/Login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000511s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000850s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000126s ]
+NOTIC: [8] session_start(): A session had already been started - ignoring /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Runtime/Cache/Admin/32ec6c906c117a7c2bf504769276d87a.php 第 1 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006047s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006084s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000174s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000189s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000597s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000619s ]
+
+[ 2018-11-16T15:16:25+08:00 ] ::1 /mybllgs/index.php/admin/login/loginaction
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000620s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000897s ]
+NOTIC: [8] Undefined index: ID /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 23 行.
+NOTIC: [8] Undefined index: password /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000578s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000619s ]
+
+[ 2018-11-16T15:16:25+08:00 ] ::1 /MyBllgs/index.php/Admin/Login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000760s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001441s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000027s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000059s ]
+NOTIC: [8] session_start(): A session had already been started - ignoring /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Runtime/Cache/Admin/32ec6c906c117a7c2bf504769276d87a.php 第 1 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.008680s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008712s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000155s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000171s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000358s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000381s ]
+
+[ 2018-11-16T15:16:35+08:00 ] ::1 /mybllgs/index.php/admin/login/loginaction
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000355s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000618s ]
+NOTIC: [8] Undefined index: ID /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 23 行.
+NOTIC: [8] Undefined index: password /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000399s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000423s ]
+
+[ 2018-11-16T15:16:35+08:00 ] ::1 /MyBllgs/index.php/Admin/Login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000342s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000571s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000018s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000042s ]
+NOTIC: [8] session_start(): A session had already been started - ignoring /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Runtime/Cache/Admin/32ec6c906c117a7c2bf504769276d87a.php 第 1 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004938s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004975s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000195s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000217s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000459s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000489s ]
+
+[ 2018-11-16T15:16:36+08:00 ] ::1 /mybllgs/index.php/admin/login/loginaction
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000480s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001192s ]
+NOTIC: [8] Undefined index: ID /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 23 行.
+NOTIC: [8] Undefined index: password /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000788s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000830s ]
+
+[ 2018-11-16T15:16:36+08:00 ] ::1 /MyBllgs/index.php/Admin/Login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000423s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000796s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000025s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000056s ]
+NOTIC: [8] session_start(): A session had already been started - ignoring /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Runtime/Cache/Admin/32ec6c906c117a7c2bf504769276d87a.php 第 1 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004728s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004764s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000171s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000188s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000320s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000341s ]
+
+[ 2018-11-16T15:16:36+08:00 ] ::1 /mybllgs/index.php/admin/login/loginaction
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000240s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000469s ]
+NOTIC: [8] Undefined index: ID /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 23 行.
+NOTIC: [8] Undefined index: password /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000253s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000269s ]
+
+[ 2018-11-16T15:16:37+08:00 ] ::1 /MyBllgs/index.php/Admin/Login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000509s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000868s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000016s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000039s ]
+NOTIC: [8] session_start(): A session had already been started - ignoring /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Runtime/Cache/Admin/32ec6c906c117a7c2bf504769276d87a.php 第 1 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.002833s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002863s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000157s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000174s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000306s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000326s ]
+
+[ 2018-11-16T15:16:37+08:00 ] ::1 /mybllgs/index.php/admin/login/loginaction
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000235s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000423s ]
+NOTIC: [8] Undefined index: ID /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 23 行.
+NOTIC: [8] Undefined index: password /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000260s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000276s ]
+
+[ 2018-11-16T15:16:37+08:00 ] ::1 /MyBllgs/index.php/Admin/Login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000436s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000815s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000018s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000041s ]
+NOTIC: [8] session_start(): A session had already been started - ignoring /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Runtime/Cache/Admin/32ec6c906c117a7c2bf504769276d87a.php 第 1 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004206s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004235s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000146s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000569s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000643s ]
+
+[ 2018-11-16T15:16:37+08:00 ] ::1 /mybllgs/index.php/admin/login/loginaction
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000391s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000971s ]
+NOTIC: [8] Undefined index: ID /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 23 行.
+NOTIC: [8] Undefined index: password /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000503s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000525s ]
+
+[ 2018-11-16T15:16:37+08:00 ] ::1 /MyBllgs/index.php/Admin/Login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000382s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000927s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000016s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000038s ]
+NOTIC: [8] session_start(): A session had already been started - ignoring /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Runtime/Cache/Admin/32ec6c906c117a7c2bf504769276d87a.php 第 1 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004174s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004210s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000099s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000110s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000261s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000274s ]
+
+[ 2018-11-16T15:16:38+08:00 ] ::1 /mybllgs/index.php/admin/login/loginaction
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000413s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000688s ]
+NOTIC: [8] Undefined index: ID /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 23 行.
+NOTIC: [8] Undefined index: password /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000456s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000489s ]
+
+[ 2018-11-16T15:16:38+08:00 ] ::1 /MyBllgs/index.php/Admin/Login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000578s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000829s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000054s ]
+NOTIC: [8] session_start(): A session had already been started - ignoring /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Runtime/Cache/Admin/32ec6c906c117a7c2bf504769276d87a.php 第 1 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004045s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004071s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000138s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000151s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000278s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000293s ]
+
+[ 2018-11-16T15:16:38+08:00 ] ::1 /mybllgs/index.php/admin/login/loginaction
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000547s ]
+NOTIC: [8] Undefined index: ID /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 23 行.
+NOTIC: [8] Undefined index: password /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000260s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000276s ]
+
+[ 2018-11-16T15:16:38+08:00 ] ::1 /MyBllgs/index.php/Admin/Login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000286s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000471s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000025s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000061s ]
+NOTIC: [8] session_start(): A session had already been started - ignoring /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Runtime/Cache/Admin/32ec6c906c117a7c2bf504769276d87a.php 第 1 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.003802s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003832s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000125s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000141s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000310s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000327s ]
+
+[ 2018-11-16T15:16:50+08:00 ] ::1 /mybllgs/index.php/admin/login/loginaction
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000501s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000882s ]
+NOTIC: [8] Undefined index: ID /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 23 行.
+NOTIC: [8] Undefined index: password /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000508s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000546s ]
+
+[ 2018-11-16T15:16:50+08:00 ] ::1 /MyBllgs/index.php/Admin/Login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001849s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000025s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000062s ]
+NOTIC: [8] session_start(): A session had already been started - ignoring /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Runtime/Cache/Admin/32ec6c906c117a7c2bf504769276d87a.php 第 1 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006211s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006287s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000174s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000193s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000332s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000351s ]
+
+[ 2018-11-16T15:20:35+08:00 ] ::1 /MyBllgs/index.php/Admin/Login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000395s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000702s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000021s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000046s ]
+NOTIC: [8] session_start(): A session had already been started - ignoring /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Runtime/Cache/Admin/32ec6c906c117a7c2bf504769276d87a.php 第 1 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004214s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004234s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000108s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000120s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000287s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000301s ]
+
+[ 2018-11-16T15:20:36+08:00 ] ::1 /mybllgs/index.php/admin/login/loginaction
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000409s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000775s ]
+NOTIC: [8] Undefined index: ID /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 23 行.
+NOTIC: [8] Undefined index: password /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000614s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000662s ]
+
+[ 2018-11-16T15:20:36+08:00 ] ::1 /MyBllgs/index.php/Admin/Login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000852s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001506s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000065s ]
+NOTIC: [8] session_start(): A session had already been started - ignoring /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Runtime/Cache/Admin/32ec6c906c117a7c2bf504769276d87a.php 第 1 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006557s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006610s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000244s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000270s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000560s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000596s ]
+
+[ 2018-11-16T15:20:37+08:00 ] ::1 /mybllgs/index.php/admin/login/loginaction
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000253s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000480s ]
+NOTIC: [8] Undefined index: ID /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 23 行.
+NOTIC: [8] Undefined index: password /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000254s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000270s ]
+
+[ 2018-11-16T15:20:37+08:00 ] ::1 /MyBllgs/index.php/Admin/Login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000422s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000655s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000069s ]
+NOTIC: [8] session_start(): A session had already been started - ignoring /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Runtime/Cache/Admin/32ec6c906c117a7c2bf504769276d87a.php 第 1 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004194s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004227s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000136s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000151s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000311s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000328s ]
+
+[ 2018-11-16T15:20:38+08:00 ] ::1 /mybllgs/index.php/admin/login/loginaction
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000234s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000420s ]
+NOTIC: [8] Undefined index: ID /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 23 行.
+NOTIC: [8] Undefined index: password /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000464s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000500s ]
+
+[ 2018-11-16T15:20:38+08:00 ] ::1 /MyBllgs/index.php/Admin/Login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000614s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001044s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000024s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000050s ]
+NOTIC: [8] session_start(): A session had already been started - ignoring /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Runtime/Cache/Admin/32ec6c906c117a7c2bf504769276d87a.php 第 1 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.003496s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003528s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000206s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000230s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000361s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000381s ]
+
+[ 2018-11-16T15:20:39+08:00 ] ::1 /mybllgs/index.php/admin/login/loginaction
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000231s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000413s ]
+NOTIC: [8] Undefined index: ID /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 23 行.
+NOTIC: [8] Undefined index: password /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000254s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000271s ]
+
+[ 2018-11-16T15:20:39+08:00 ] ::1 /MyBllgs/index.php/Admin/Login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000448s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000809s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000024s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000057s ]
+NOTIC: [8] session_start(): A session had already been started - ignoring /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Runtime/Cache/Admin/32ec6c906c117a7c2bf504769276d87a.php 第 1 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.003586s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003612s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000114s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000126s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000286s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000301s ]
+
+[ 2018-11-16T15:20:40+08:00 ] ::1 /mybllgs/index.php/admin/login/loginaction
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000449s ]
+NOTIC: [8] Undefined index: ID /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 23 行.
+NOTIC: [8] Undefined index: password /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000286s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000305s ]
+
+[ 2018-11-16T15:20:40+08:00 ] ::1 /MyBllgs/index.php/Admin/Login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000317s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000561s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000063s ]
+NOTIC: [8] session_start(): A session had already been started - ignoring /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Runtime/Cache/Admin/32ec6c906c117a7c2bf504769276d87a.php 第 1 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004585s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004621s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000197s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000221s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000483s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000515s ]
+
+[ 2018-11-16T15:20:47+08:00 ] ::1 /mybllgs/index.php/admin/login/loginaction
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000323s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000590s ]
+NOTIC: [8] Undefined index: ID /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 23 行.
+NOTIC: [8] Undefined index: password /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000263s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000279s ]
+
+[ 2018-11-16T15:20:47+08:00 ] ::1 /MyBllgs/index.php/Admin/Login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000433s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000790s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000025s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000066s ]
+NOTIC: [8] session_start(): A session had already been started - ignoring /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Runtime/Cache/Admin/32ec6c906c117a7c2bf504769276d87a.php 第 1 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.003352s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003380s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000176s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000194s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000347s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000367s ]
+
+[ 2018-11-16T15:20:48+08:00 ] ::1 /mybllgs/index.php/admin/login/loginaction
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000367s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000737s ]
+NOTIC: [8] Undefined index: ID /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 23 行.
+NOTIC: [8] Undefined index: password /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000359s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000385s ]
+
+[ 2018-11-16T15:20:48+08:00 ] ::1 /MyBllgs/index.php/Admin/Login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000622s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000017s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000041s ]
+NOTIC: [8] session_start(): A session had already been started - ignoring /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Runtime/Cache/Admin/32ec6c906c117a7c2bf504769276d87a.php 第 1 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004933s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004962s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000122s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000134s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000287s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000303s ]
+
+[ 2018-11-16T15:20:48+08:00 ] ::1 /mybllgs/index.php/admin/login/loginaction
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000364s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000641s ]
+NOTIC: [8] Undefined index: ID /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 23 行.
+NOTIC: [8] Undefined index: password /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000388s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000413s ]
+
+[ 2018-11-16T15:20:48+08:00 ] ::1 /MyBllgs/index.php/Admin/Login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000399s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000648s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000018s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000044s ]
+NOTIC: [8] session_start(): A session had already been started - ignoring /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Runtime/Cache/Admin/32ec6c906c117a7c2bf504769276d87a.php 第 1 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004063s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004100s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000357s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000429s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000674s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000716s ]
+
+[ 2018-11-16T15:20:49+08:00 ] ::1 /mybllgs/index.php/admin/login/loginaction
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000317s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000604s ]
+NOTIC: [8] Undefined index: ID /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 23 行.
+NOTIC: [8] Undefined index: password /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000268s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000291s ]
+
+[ 2018-11-16T15:20:49+08:00 ] ::1 /MyBllgs/index.php/Admin/Login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000542s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000805s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000019s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000046s ]
+NOTIC: [8] session_start(): A session had already been started - ignoring /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Runtime/Cache/Admin/32ec6c906c117a7c2bf504769276d87a.php 第 1 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.003710s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003739s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000117s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000129s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000287s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000303s ]
+
+[ 2018-11-16T15:20:50+08:00 ] ::1 /mybllgs/index.php/admin/login/loginaction
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000643s ]
+NOTIC: [8] Undefined index: ID /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 23 行.
+NOTIC: [8] Undefined index: password /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000640s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000772s ]
+
+[ 2018-11-16T15:20:50+08:00 ] ::1 /MyBllgs/index.php/Admin/Login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001206s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001939s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000017s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000040s ]
+NOTIC: [8] session_start(): A session had already been started - ignoring /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Runtime/Cache/Admin/32ec6c906c117a7c2bf504769276d87a.php 第 1 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.003263s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003285s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000103s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000114s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000268s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000282s ]
+
+[ 2018-11-16T15:20:58+08:00 ] ::1 /MyBllgs/index.php/Admin/Login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000252s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000458s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000071s ]
+NOTIC: [8] session_start(): A session had already been started - ignoring /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Runtime/Cache/Admin/32ec6c906c117a7c2bf504769276d87a.php 第 1 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004063s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004093s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000217s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000231s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000311s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000327s ]
+
+[ 2018-11-16T15:20:59+08:00 ] ::1 /MyBllgs/index.php/Admin/Login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000433s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000714s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000022s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000048s ]
+NOTIC: [8] session_start(): A session had already been started - ignoring /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Runtime/Cache/Admin/32ec6c906c117a7c2bf504769276d87a.php 第 1 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004090s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004125s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000182s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000203s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000645s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000680s ]
+
+[ 2018-11-16T15:21:00+08:00 ] ::1 /MyBllgs/index.php/Admin/Login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000329s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000576s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000018s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000046s ]
+NOTIC: [8] session_start(): A session had already been started - ignoring /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Runtime/Cache/Admin/32ec6c906c117a7c2bf504769276d87a.php 第 1 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.003760s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003784s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000110s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000121s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000274s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000288s ]
+
+[ 2018-11-16T15:21:01+08:00 ] ::1 /MyBllgs/index.php/Admin/Login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000608s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001240s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000028s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000083s ]
+NOTIC: [8] session_start(): A session had already been started - ignoring /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Runtime/Cache/Admin/32ec6c906c117a7c2bf504769276d87a.php 第 1 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004602s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004683s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000297s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000317s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000484s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000518s ]
+
+[ 2018-11-16T15:21:03+08:00 ] ::1 /MyBllgs/index.php/Admin/Login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000239s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000420s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000016s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000042s ]
+NOTIC: [8] session_start(): A session had already been started - ignoring /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Runtime/Cache/Admin/32ec6c906c117a7c2bf504769276d87a.php 第 1 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.003061s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003142s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000122s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000135s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000289s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000305s ]
+
+[ 2018-11-16T15:21:32+08:00 ] ::1 /MyBllgs/index.php/Admin/Login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000241s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000420s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000015s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000033s ]
+NOTIC: [8] session_start(): A session had already been started - ignoring /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Runtime/Cache/Admin/32ec6c906c117a7c2bf504769276d87a.php 第 1 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.002617s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002637s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000106s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000118s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000325s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000344s ]
+
+[ 2018-11-16T15:21:43+08:00 ] ::1 /MyBllgs/index.php/Admin/Login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000274s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000546s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000019s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000049s ]
+NOTIC: [8] session_start(): A session had already been started - ignoring /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Runtime/Cache/Admin/32ec6c906c117a7c2bf504769276d87a.php 第 1 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004837s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004862s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000158s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000174s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000428s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000448s ]
+
+[ 2018-11-16T15:22:17+08:00 ] ::1 /MyBllgs/index.php/Admin/Login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000510s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000950s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000016s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000039s ]
+NOTIC: [8] session_start(): A session had already been started - ignoring /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Runtime/Cache/Admin/32ec6c906c117a7c2bf504769276d87a.php 第 1 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.003763s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003794s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000110s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000122s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000266s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000280s ]
+
+[ 2018-11-16T15:24:13+08:00 ] ::1 /MyBllgs/index.php/Admin/Login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000244s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000436s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000015s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000032s ]
+NOTIC: [8] session_start(): A session had already been started - ignoring /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Runtime/Cache/Admin/32ec6c906c117a7c2bf504769276d87a.php 第 1 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.002547s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002564s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000105s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000117s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000265s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000279s ]
+
+[ 2018-11-16T15:24:32+08:00 ] ::1 /MyBllgs/index.php/Admin/Login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000254s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000465s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000020s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000046s ]
+NOTIC: [8] session_start(): A session had already been started - ignoring /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Runtime/Cache/Admin/32ec6c906c117a7c2bf504769276d87a.php 第 1 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005189s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005215s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000162s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000180s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000453s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000478s ]
+
+[ 2018-11-16T15:24:47+08:00 ] ::1 /MyBllgs/index.php/Admin/Login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000231s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000409s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000018s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000045s ]
+NOTIC: [8] session_start(): A session had already been started - ignoring /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Runtime/Cache/Admin/32ec6c906c117a7c2bf504769276d87a.php 第 1 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.003804s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003829s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000142s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000159s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000418s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000451s ]
+
+[ 2018-11-16T15:25:09+08:00 ] ::1 /MyBllgs/index.php/Admin/Login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000307s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000643s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000103s ]
+NOTIC: [8] session_start(): A session had already been started - ignoring /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Runtime/Cache/Admin/32ec6c906c117a7c2bf504769276d87a.php 第 1 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005083s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005129s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000266s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000285s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000391s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000412s ]
+
+[ 2018-11-16T15:25:38+08:00 ] ::1 /MyBllgs/index.php/Admin/Login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000309s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000512s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000016s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000035s ]
+NOTIC: [8] session_start(): A session had already been started - ignoring /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Runtime/Cache/Admin/32ec6c906c117a7c2bf504769276d87a.php 第 1 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.002619s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002638s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000185s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000209s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000386s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000418s ]
+
+[ 2018-11-16T15:25:41+08:00 ] ::1 /MyBllgs/index.php/Admin/Login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000458s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000018s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000043s ]
+NOTIC: [8] session_start(): A session had already been started - ignoring /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Runtime/Cache/Admin/32ec6c906c117a7c2bf504769276d87a.php 第 1 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004771s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004893s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000368s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000403s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000461s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000499s ]
+
+[ 2018-11-16T15:26:41+08:00 ] ::1 /MyBllgs/index.php/Admin/Login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000291s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000535s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000017s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000038s ]
+NOTIC: [8] session_start(): A session had already been started - ignoring /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Runtime/Cache/Admin/32ec6c906c117a7c2bf504769276d87a.php 第 1 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.002729s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002755s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000101s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000113s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000279s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000292s ]
+
+[ 2018-11-16T15:26:43+08:00 ] ::1 /MyBllgs/index.php/Admin/
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000276s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000492s ]
+NOTIC: [8] Undefined index: AID /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Common/CommonController.class.php 第 17 行.
+
+[ 2018-11-16T15:26:43+08:00 ] ::1 /mybllgs/index.php/admin/login/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000601s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000983s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000022s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000056s ]
+NOTIC: [8] session_start(): A session had already been started - ignoring /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Runtime/Cache/Admin/32ec6c906c117a7c2bf504769276d87a.php 第 1 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004319s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004350s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000143s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000574s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000597s ]
+
+[ 2018-11-16T15:26:45+08:00 ] ::1 /mybllgs/index.php/admin/login/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000317s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000605s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000063s ]
+NOTIC: [8] session_start(): A session had already been started - ignoring /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Runtime/Cache/Admin/32ec6c906c117a7c2bf504769276d87a.php 第 1 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007898s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007930s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000283s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000308s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000633s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000666s ]
+
+[ 2018-11-16T15:28:27+08:00 ] ::1 /mybllgs/index.php/admin/login/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000301s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000640s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000018s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000041s ]
+NOTIC: [8] session_start(): A session had already been started - ignoring /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Runtime/Cache/Admin/32ec6c906c117a7c2bf504769276d87a.php 第 1 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005127s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005153s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000112s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000124s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000279s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000292s ]
+
+[ 2018-11-16T15:28:30+08:00 ] ::1 /mybllgs/index.php/admin/login/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000226s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000406s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000015s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000032s ]
+NOTIC: [8] session_start(): A session had already been started - ignoring /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Runtime/Cache/Admin/32ec6c906c117a7c2bf504769276d87a.php 第 1 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.002436s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002453s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000096s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000107s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000264s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000278s ]
+
+[ 2018-11-16T15:28:32+08:00 ] ::1 /mybllgs/index.php/admin/login/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000243s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000436s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000017s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000040s ]
+NOTIC: [8] session_start(): A session had already been started - ignoring /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Runtime/Cache/Admin/32ec6c906c117a7c2bf504769276d87a.php 第 1 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004694s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004718s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000231s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000246s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000323s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000364s ]
+
+[ 2018-11-16T15:28:41+08:00 ] ::1 /mybllgs/index.php/admin/login/loginaction
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000226s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000403s ]
+NOTIC: [8] Undefined index: ID /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 23 行.
+NOTIC: [8] Undefined index: password /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000253s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000269s ]
+
+[ 2018-11-16T15:28:41+08:00 ] ::1 /mybllgs/index.php/admin/login/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000410s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000612s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000019s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000088s ]
+NOTIC: [8] session_start(): A session had already been started - ignoring /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Runtime/Cache/Admin/32ec6c906c117a7c2bf504769276d87a.php 第 1 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.003981s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004014s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000124s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000137s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000469s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000490s ]
+
+[ 2018-11-16T15:28:59+08:00 ] ::1 /mybllgs/index.php/admin/login/loginaction
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000505s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000975s ]
+NOTIC: [8] Undefined index: ID /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 23 行.
+NOTIC: [8] Undefined index: password /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000508s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000533s ]
+
+[ 2018-11-16T15:29:16+08:00 ] ::1 /mybllgs/index.php/admin/login/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000515s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001167s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000078s ]
+NOTIC: [8] session_start(): A session had already been started - ignoring /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Runtime/Cache/Admin/32ec6c906c117a7c2bf504769276d87a.php 第 1 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006951s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006986s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000375s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000424s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000563s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000591s ]
+
+[ 2018-11-16T15:29:29+08:00 ] ::1 /mybllgs/index.php/admin/login/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000256s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000465s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000024s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000051s ]
+NOTIC: [8] session_start(): A session had already been started - ignoring /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Runtime/Cache/Admin/32ec6c906c117a7c2bf504769276d87a.php 第 1 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005104s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005147s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000308s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000334s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000606s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000665s ]
+
+[ 2018-11-16T15:29:32+08:00 ] ::1 /mybllgs/index.php/admin/login/loginaction
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000548s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000971s ]
+NOTIC: [8] Undefined index: ID /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 23 行.
+NOTIC: [8] Undefined index: password /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000587s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000634s ]
+
+[ 2018-11-16T15:29:32+08:00 ] ::1 /mybllgs/index.php/admin/login/index?ID=&password=
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000409s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000712s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000091s ]
+NOTIC: [8] session_start(): A session had already been started - ignoring /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Runtime/Cache/Admin/32ec6c906c117a7c2bf504769276d87a.php 第 1 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007135s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007195s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000184s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000206s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000497s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000525s ]
+
+[ 2018-11-16T15:29:34+08:00 ] ::1 /mybllgs/index.php/admin/login/loginaction
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000232s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000416s ]
+NOTIC: [8] Undefined index: ID /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 23 行.
+NOTIC: [8] Undefined index: password /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000272s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000290s ]
+
+[ 2018-11-16T15:29:35+08:00 ] ::1 /mybllgs/index.php/admin/login/index?ID=&password=
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000319s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000643s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000020s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000076s ]
+NOTIC: [8] session_start(): A session had already been started - ignoring /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Runtime/Cache/Admin/32ec6c906c117a7c2bf504769276d87a.php 第 1 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004155s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004236s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000209s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000234s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000480s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000512s ]
+
+[ 2018-11-16T15:29:35+08:00 ] ::1 /mybllgs/index.php/admin/login/loginaction
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000422s ]
+NOTIC: [8] Undefined index: ID /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 23 行.
+NOTIC: [8] Undefined index: password /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000262s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000280s ]
+
+[ 2018-11-16T15:29:35+08:00 ] ::1 /mybllgs/index.php/admin/login/index?ID=&password=
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000546s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000949s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000018s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000044s ]
+NOTIC: [8] session_start(): A session had already been started - ignoring /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Runtime/Cache/Admin/32ec6c906c117a7c2bf504769276d87a.php 第 1 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.003119s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003148s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000134s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000289s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000306s ]
+
+[ 2018-11-16T15:29:46+08:00 ] ::1 /mybllgs/index.php/admin/login/index?ID=&password=
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000239s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000423s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000015s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000033s ]
+NOTIC: [8] session_start(): A session had already been started - ignoring /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Runtime/Cache/Admin/32ec6c906c117a7c2bf504769276d87a.php 第 1 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.002669s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002709s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000107s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000117s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000294s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000308s ]
+
+[ 2018-11-16T15:29:47+08:00 ] ::1 /mybllgs/index.php/admin/login/loginaction
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000238s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000427s ]
+NOTIC: [8] Undefined index: ID /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 23 行.
+NOTIC: [8] Undefined index: password /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000288s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000304s ]
+
+[ 2018-11-16T15:29:47+08:00 ] ::1 /mybllgs/index.php/admin/login/loginaction
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000288s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000521s ]
+NOTIC: [8] Undefined index: ID /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 23 行.
+NOTIC: [8] Undefined index: password /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000318s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000339s ]
+
+[ 2018-11-16T15:30:01+08:00 ] ::1 /mybllgs/index.php/admin/login/loginaction
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000829s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001493s ]
+NOTIC: [8] Undefined index: ID /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 23 行.
+NOTIC: [8] Undefined index: password /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000763s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000802s ]
+
+[ 2018-11-16T15:30:29+08:00 ] ::1 /mybllgs/index.php/admin/login/loginaction
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000485s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000809s ]
+NOTIC: [8] Undefined index: ID /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 23 行.
+NOTIC: [8] Undefined index: password /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001002s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001043s ]
+
+[ 2018-11-16T15:31:03+08:00 ] ::1 /mybllgs/index.php/admin/login/index?ID=&password=
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000455s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000895s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000059s ]
+NOTIC: [8] session_start(): A session had already been started - ignoring /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Runtime/Cache/Admin/32ec6c906c117a7c2bf504769276d87a.php 第 1 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006710s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006743s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000397s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000422s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000398s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000419s ]
+
+[ 2018-11-16T15:31:13+08:00 ] ::1 /mybllgs/index.php/admin/login/loginaction
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000233s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000418s ]
+NOTIC: [8] Undefined index: ID /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 23 行.
+NOTIC: [8] Undefined index: password /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000287s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000306s ]
+
+[ 2018-11-16T15:33:28+08:00 ] ::1 /mybllgs/index.php/admin/login/index?ID=&password=
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000439s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000689s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000017s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000039s ]
+NOTIC: [8] session_start(): A session had already been started - ignoring /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Runtime/Cache/Admin/32ec6c906c117a7c2bf504769276d87a.php 第 1 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.003496s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003540s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000110s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000122s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000273s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000287s ]
+
+[ 2018-11-16T15:33:35+08:00 ] ::1 /mybllgs/index.php/admin/login/loginaction
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000262s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000462s ]
+NOTIC: [8] Undefined index: ID /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 23 行.
+NOTIC: [8] Undefined index: password /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000706s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000757s ]
+
+[ 2018-11-16T15:34:02+08:00 ] ::1 /mybllgs/index.php/admin/login/index?ID=&password=
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000474s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001158s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000025s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000061s ]
+NOTIC: [8] session_start(): A session had already been started - ignoring /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Runtime/Cache/Admin/32ec6c906c117a7c2bf504769276d87a.php 第 1 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006136s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006171s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000170s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000188s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000442s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000467s ]
+
+[ 2018-11-16T15:34:11+08:00 ] ::1 /mybllgs/index.php/admin/login/loginaction
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000473s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000890s ]
+NOTIC: [8] Undefined index: ID /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 23 行.
+NOTIC: [8] Undefined index: password /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000505s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000550s ]
+
+[ 2018-11-16T15:34:25+08:00 ] ::1 /mybllgs/index.php/admin/login/loginaction
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000438s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000825s ]
+NOTIC: [8] Undefined index: ID /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 23 行.
+NOTIC: [8] Undefined index: password /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000492s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000525s ]
+
+[ 2018-11-16T15:34:34+08:00 ] ::1 /mybllgs/index.php/admin/login/index?ID=&password=
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000723s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000951s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000017s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000040s ]
+NOTIC: [8] session_start(): A session had already been started - ignoring /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Runtime/Cache/Admin/32ec6c906c117a7c2bf504769276d87a.php 第 1 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.002960s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002981s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000162s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000179s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000452s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000483s ]
+
+[ 2018-11-16T15:34:39+08:00 ] ::1 /mybllgs/index.php/admin/login/loginaction
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000921s ]
+NOTIC: [8] Undefined index: ID /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 23 行.
+NOTIC: [8] Undefined index: password /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000534s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000578s ]
+
+[ 2018-11-16T15:35:33+08:00 ] ::1 /mybllgs/index.php/admin/login/index?ID=&password=
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000362s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000643s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000087s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000235s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005878s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005923s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000231s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000255s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000483s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000513s ]
+
+[ 2018-11-16T15:35:41+08:00 ] ::1 /mybllgs/index.php/admin/login/index?ID=&password=
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000510s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001062s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000018s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000052s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.003838s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003870s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000179s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000247s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000601s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000633s ]
+
+[ 2018-11-16T15:36:00+08:00 ] ::1 /mybllgs/index.php/admin/login/loginaction
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000623s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000990s ]
+NOTIC: [8] Undefined index: ID /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 23 行.
+NOTIC: [8] Undefined index: password /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000572s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000607s ]
+
+[ 2018-11-16T15:37:04+08:00 ] ::1 /mybllgs/index.php/admin/login/index?ID=&password=
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000688s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001277s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005275s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005334s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000435s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000461s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000433s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000463s ]
+
+[ 2018-11-16T15:37:12+08:00 ] ::1 /mybllgs/index.php/admin/login/loginaction
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000428s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000774s ]
+NOTIC: [8] Undefined index: ID /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 23 行.
+NOTIC: [8] Undefined index: password /Applications/XAMPP/xamppfiles/htdocs/MyBllgs/Application/Admin/Controller/LoginController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000501s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000538s ]
+

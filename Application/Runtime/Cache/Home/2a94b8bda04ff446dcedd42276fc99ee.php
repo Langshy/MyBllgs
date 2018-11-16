@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <title>博客首页</title>
-    <link type="text/css" rel="stylesheet" href="/Myblogs/Public/Home/layui/css/layui.css">
-    <link type="text/css" rel="stylesheet" href="/Myblogs/Public/Home/css/style.css">
-    <script type="text/javascript" src="/Myblogs/Public/Home/layui/layui.js"></script>
-    <script type="text/javascript" src="/Myblogs/Public/JS/jquery-3.3.1.min.js"></script>
+    <link type="text/css" rel="stylesheet" href="/mybllgs/Public/Home/layui/css/layui.css">
+    <link type="text/css" rel="stylesheet" href="/mybllgs/Public/Home/css/style.css">
+    <script type="text/javascript" src="/mybllgs/Public/Home/layui/layui.js"></script>
+    <script type="text/javascript" src="/mybllgs/Public/JS/jquery-3.3.1.min.js"></script>
     <!--<script type="text/javascript" src="js/iframeResizer.js"></script>-->
     <style>
         #frameConter{
@@ -63,8 +63,8 @@
     <!--主站轮播部分-->
     <div id="centerbg" class="layui-carousel">
         <div carousel-item="">
-            <div><img src="/Myblogs/Public/Home/image/bg/57d8e8d1721dd.jpg"></div>
-            <div><img src="/Myblogs/Public/Home/image/bg/57d8e8da68382.jpg"></div>
+            <div><img src="/mybllgs/Public/Home/image/bg/57d8e8d1721dd.jpg"></div>
+            <div><img src="/mybllgs/Public/Home/image/bg/57d8e8da68382.jpg"></div>
         </div>
     </div>
 </div>
@@ -91,7 +91,7 @@
 </div>
 
 <div id="musicPlay">
-    <audio id="musicPlayer" src="/Myblogs/Public/Home/music/藤澤慶昌 - 愛してるばんざーい！ (Piano Mix).mp3"></audio>
+    <audio id="musicPlayer" src="/mybllgs/Public/Home/music/藤澤慶昌 - 愛してるばんざーい！ (Piano Mix).mp3"></audio>
     <div class="musicPlay" style="display: none">
         <div class="previous"></div>
         <div class="play"></div>
@@ -175,14 +175,6 @@
                musicPlayer.load();
            });
 
-       // $("#frameConter").load(function(){
-       //      var frameConter = $(this);
-       //      //获取子页面body的高度 并适量增加
-       //      var mainheight = frameConter.contents().find("body").height()+30;
-       //      //给iframe设置高度（不低于350）
-       //      frameConter.height(Math.max(mainheight,350));
-       //  });
-
         // iframe 自适应高度
         let timer;
 
@@ -198,7 +190,7 @@
                     pre_height = mainheight;
                     frameConter.height(Math.max(mainheight,350));
                 }
-            },100);//每0.5秒检查一次
+            },100);//每0.1秒检查一次
         });
 
         $('.layui-nav-item').click(function () {

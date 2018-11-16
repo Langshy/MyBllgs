@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <title>conter</title>
-    <link type="text/css" rel="stylesheet" href="/myblogs/Public/Home/layui/css/layui.css">
-    <link type="text/css" rel="stylesheet" href="/myblogs/Public/Home/css/style.css">
-    <script type="text/javascript" src="/myblogs/Public/Home/layui/layui.js"></script>
-    <script type="text/javascript" src="/myblogs/Public/JS/jquery-3.3.1.min.js"></script>
+    <link type="text/css" rel="stylesheet" href="/mybllgs/Public/Home/layui/css/layui.css">
+    <link type="text/css" rel="stylesheet" href="/mybllgs/Public/Home/css/style.css">
+    <script type="text/javascript" src="/mybllgs/Public/Home/layui/layui.js"></script>
+    <script type="text/javascript" src="/mybllgs/Public/JS/jquery-3.3.1.min.js"></script>
 </head>
 <body>
 <div id="conter">

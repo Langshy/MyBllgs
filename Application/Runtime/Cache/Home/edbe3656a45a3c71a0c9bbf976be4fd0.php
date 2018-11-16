@@ -3,16 +3,16 @@
 <head>
     <meta charset="UTF-8">
     <title>tag</title>
-    <link type="text/css" rel="stylesheet" href="/myblogs/Public/Home/layui/css/layui.css">
-    <link type="text/css" rel="stylesheet" href="/myblogs/Public/Home/css/style.css">
-    <link type="text/css" rel="stylesheet" href="/myblogs/Public/Home/css/archives.css">
-    <script type="text/javascript" src="/myblogs/Public/Home/layui/layui.js"></script>
-    <script type="text/javascript" src="/myblogs/Public/JS//jquery-3.3.1.min.js"></script>
+    <link type="text/css" rel="stylesheet" href="/mybllgs/Public/Home/layui/css/layui.css">
+    <link type="text/css" rel="stylesheet" href="/mybllgs/Public/Home/css/style.css">
+    <link type="text/css" rel="stylesheet" href="/mybllgs/Public/Home/css/archives.css">
+    <script type="text/javascript" src="/mybllgs/Public/Home/layui/layui.js"></script>
+    <script type="text/javascript" src="/mybllgs/Public/JS//jquery-3.3.1.min.js"></script>
 </head>
 <body>
 <div id="tag">
     <div class="tag">
-        <div class="tag-icon"><img src="/myblogs/Public/Home/image/archives/tag.png"></div>
+        <div class="tag-icon"><img src="/mybllgs/Public/Home/image/archives/tag.png"></div>
         <div class="tag-title">PHP</div>
     </div>
     <div class="archives">

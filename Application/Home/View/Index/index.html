@@ -175,14 +175,6 @@
                musicPlayer.load();
            });
 
-       // $("#frameConter").load(function(){
-       //      var frameConter = $(this);
-       //      //获取子页面body的高度 并适量增加
-       //      var mainheight = frameConter.contents().find("body").height()+30;
-       //      //给iframe设置高度（不低于350）
-       //      frameConter.height(Math.max(mainheight,350));
-       //  });
-
         // iframe 自适应高度
         let timer;
 
@@ -198,7 +190,7 @@
                     pre_height = mainheight;
                     frameConter.height(Math.max(mainheight,350));
                 }
-            },100);//每0.5秒检查一次
+            },100);//每0.1秒检查一次
         });
 
         $('.layui-nav-item').click(function () {
