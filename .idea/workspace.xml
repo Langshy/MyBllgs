@@ -1,30 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b9c83e9-363e-4889-84fa-08c76136fa5c" name="Default" comment="something add">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Application/Runtime/Logs/18_11_16.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/Admin/Controller/LoginController.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/Application/Admin/Controller/LoginController.class.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/Admin/View/Login/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Application/Admin/View/Login/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/Home/View/Index/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Application/Home/View/Index/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/32ec6c906c117a7c2bf504769276d87a.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Admin/b595b808c2ebeeeb0478ffc30bb4e87a.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php" beforeDir="false" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Home/45ee3d3083b0b3004c345c026b64020a.php" beforeDir="false" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Home/45ee3d3083b0b3004c345c026b64020a.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Home/9885ecc411f90bec36756701bd64bb4a.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Home/edbe3656a45a3c71a0c9bbf976be4fd0.php" beforeDir="false" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Home/edbe3656a45a3c71a0c9bbf976be4fd0.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/Runtime/Cache/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/Runtime/Data/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/Runtime/Logs/18_10_23.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/Runtime/Logs/18_10_27.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/Runtime/Logs/18_10_29.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/Runtime/Logs/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/Runtime/Temp/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/Runtime/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Public/Admin/css/login/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Public/Admin/css/login/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Public/JS/function.js" beforeDir="false" afterPath="$PROJECT_DIR$/Public/JS/function.js" afterDir="false" />
+    <list default="true" id="6b9c83e9-363e-4889-84fa-08c76136fa5c" name="Default" comment="readme编写">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +37,7 @@
           <entry key="css" value="1" />
           <entry key="html" value="3" />
           <entry key="js" value="2" />
-          <entry key="md" value="2" />
+          <entry key="md" value="3" />
           <entry key="php" value="4" />
         </counts>
       </usages-collector>
@@ -68,7 +46,7 @@
           <entry key="CSS" value="1" />
           <entry key="HTML" value="3" />
           <entry key="JavaScript" value="2" />
-          <entry key="Markdown" value="2" />
+          <entry key="Markdown" value="3" />
           <entry key="PHP" value="4" />
         </counts>
       </usages-collector>
@@ -77,8 +55,9 @@
           <entry key="css" value="42" />
           <entry key="html" value="140" />
           <entry key="js" value="26" />
+          <entry key="md" value="39" />
           <entry key="php" value="39" />
-          <entry key="txt" value="26" />
+          <entry key="txt" value="40" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -86,8 +65,9 @@
           <entry key="CSS" value="42" />
           <entry key="HTML" value="140" />
           <entry key="JavaScript" value="26" />
+          <entry key="Markdown" value="39" />
           <entry key="PHP" value="39" />
-          <entry key="PLAIN_TEXT" value="26" />
+          <entry key="PLAIN_TEXT" value="40" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.php.rename.constructor" />
@@ -110,11 +90,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Public/JS/function.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
               <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="40">
+                <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -201,6 +193,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="master" />
         <option value="https://github.com/Langshy/MyBllgs.git" />
       </list>
     </option>
@@ -227,6 +220,7 @@
         <option value="$PROJECT_DIR$/Application/Admin/Controller/LoginController.class.php" />
         <option value="$PROJECT_DIR$/Public/JS/function.js" />
         <option value="$PROJECT_DIR$/Application/Admin/View/Login/index.html" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -348,17 +342,18 @@
       <updated>1540258917393</updated>
       <workItem from="1540258918666" duration="2742000" />
       <workItem from="1540606744688" duration="17201000" />
-      <workItem from="1542351345027" duration="2545000" />
+      <workItem from="1542351345027" duration="2813000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22488000" />
+    <option name="totallyTimeSpent" value="22756000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19951534" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19951534" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
@@ -372,7 +367,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32876712" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.37671232" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.37671232" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32876712" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -398,7 +393,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="something add" />
-    <option name="LAST_COMMIT_MESSAGE" value="something add" />
+    <MESSAGE value="readme编写" />
+    <option name="LAST_COMMIT_MESSAGE" value="readme编写" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Application/Admin/Common/index.html">
@@ -530,14 +526,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-81" />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Application/Home/View/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -610,6 +598,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="40">
+            <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
